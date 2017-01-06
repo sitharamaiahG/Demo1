@@ -87,3 +87,4 @@ echo -e "\033[34mremoving a directory\033[0m"
 rmdir yourdir
 echo -e "\033[35mlisting of a files \033[0m"
 ls -l
+echo "end of a script"
